@@ -36,6 +36,6 @@ Welcome to my **SOC Analyst Portfolio**! 🌸 This repository is a curated colle
 ## 💬 Contributions & Feedback
 This portfolio is a **personal project**, but I’d love to hear your thoughts! 🎀 If you have **suggestions, feedback, or want to collaborate**, feel free to open an issue.
 
-💌 **Let’s connect on LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/)
+💌 **Let’s connect on LinkedIn**: [LinkedIn](https://linkedin.com/in/)
 
 Thank you for stopping by! 💖
